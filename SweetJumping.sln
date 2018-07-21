@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4D6957E9-FF1E-5952-2E67-AE23AD19D600}") = "SweetJumping", "Assembly-CSharp.csproj", "{2FD84FD8-A967-8AA5-7200-DFCCCA72F4A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD84FD8-A967-8AA5-7200-DFCCCA72F4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD84FD8-A967-8AA5-7200-DFCCCA72F4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD84FD8-A967-8AA5-7200-DFCCCA72F4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD84FD8-A967-8AA5-7200-DFCCCA72F4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
